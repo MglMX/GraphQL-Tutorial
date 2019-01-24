@@ -1,0 +1,21 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "description": "Node project to show news using GraphQL",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "tutorial"
+  ],
+  "author": "Mglmx",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "graphql-yoga": "^1.17.0",
+    "jsonwebtoken": "^8.4.0",
+    "prisma-client-lib": "^1.25.3"
+  }
+}
